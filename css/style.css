@@ -8,3 +8,19 @@
 
 .body-bg {background-color: #E6E6FE;}
 .text-color {color: #2D2B59;}
+
+
+
+/* Body Section  */
+.bg-images {
+    background-image: url('../images/bg.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+/**
+    Images Section
+**/
