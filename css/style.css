@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Color Code  */
+
+.body-bg {background-color: #E6E6FE;}
+.text-color {color: #2D2B59;}
