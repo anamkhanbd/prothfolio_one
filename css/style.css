@@ -135,13 +135,22 @@ a.active {
 }
 
 .logo img{
-    width: 100px;
+    width: 50px;
     height: auto;
     margin-top: 50px
 }
+
 .line img{
     width: 5px;
     height: auto;
     display: block;
+    text-align: center;
     margin-right: 50px;
+}
+.text a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    rotate: 90deg;
+    margin-top: 20px;
 }
